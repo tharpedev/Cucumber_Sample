@@ -7,4 +7,5 @@ Feature: Buying a New Car
     When I log onto the website
     Then I should be able to select my make and model 
     Then I should be able to checkout
+    Then much much more!
     
