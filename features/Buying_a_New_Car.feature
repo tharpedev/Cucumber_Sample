@@ -6,5 +6,6 @@ Feature: Users should be able to buy a new car
     Then I should be able to select my make and model 
     Then I should be able to checkout
     Then I will receive a reciept
+    Then more
     Then much much more!
     
