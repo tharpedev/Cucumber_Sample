@@ -5,3 +5,4 @@ Feature:This for our users buying insurance
     Given I log into the insurance app
     When I select car
     Then  I choose car insurance 
+    Then I check out 
